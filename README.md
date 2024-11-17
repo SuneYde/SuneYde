@@ -9,9 +9,7 @@
 
 ## 🚀 **About Me**
 
-<div style="background-color:#e7f5e7; border-left:5px solid #28a745; padding:10px; margin-bottom:10px;">
-🌱 _“As someone with Asperger's, I bring unique perspectives and intense focus to my work, turning challenges into opportunities.”_
-</div>
+> 🌱 _“As someone with Asperger's, I bring unique perspectives and intense focus to my work, turning challenges into opportunities.”_
 
 - 🛠 **Tech Stack:**  
   - 🎨 **Frontend:** React.js, HTML5, CSS3, SASS  
@@ -31,18 +29,12 @@
 ## 🎉 **Projects & Playground**
 
 ### 🌐 Portfolio Website *(Coming Soon!)*  
-<div style="background-color:#e7f5e7; border-left:5px solid #28a745; padding:10px; margin-bottom:10px;">
-✨ A showcase of creativity and technology.
-</div>
-
+> ✨ A showcase of creativity and technology.  
 - 🚀 Built with **Next.js** for blazing-fast performance.  
 - 🎨 Features: Responsive design, sleek UI, and interactive components.  
 
 ### 💻 GitHub Repos  
-<div style="background-color:#e7f5e7; border-left:5px solid #28a745; padding:10px; margin-bottom:10px;">
-🛠 A collection of projects and experiments showcasing my innovation.
-</div>
-
+> 🛠 A collection of projects and experiments showcasing my innovation.  
 - 🔧 Open-source contributions and scalable applications in the pipeline.  
 
 ---
@@ -73,6 +65,10 @@
 
 ---
 
+> ✨ _“Coding is not just a skill; it’s my canvas for creativity.”_  
+
+---
+
 ## 💡 **Who I Am**
 
 | **💡** | **Innovative Thinker:** Constantly looking for ways to create, refine, and innovate. |
@@ -99,4 +95,4 @@
 
 ---
 
-> ✨ _“Coding is not just a skill; it’s my canvas for creativity.”_  
+> _"The only way to do great work is to love what you do."_ – Steve Jobs  
