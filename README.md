@@ -21,12 +21,6 @@
 
 ## 🛠 **Projects I'm Proud Of**  
 
-### 🔗 [**Trifo**](#)  
-> A subscription tracking app that helps users manage subscriptions effortlessly.  
-- 🌟 Built with MERN stack.  
-- 🔒 Focused on user privacy with secure data handling.  
-- 🛠 Features: Email integration, subscription insights, and quick management tools.
-
 ---
 
 ### 🌐 **Portfolio Website** *(Coming Soon!)*  
@@ -47,8 +41,8 @@
 ## 📈 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SuneYde&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?SuneYde&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
