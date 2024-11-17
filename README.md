@@ -44,6 +44,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SuneYde&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuneYde&theme=radical" alt="Streak Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuneYde&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
