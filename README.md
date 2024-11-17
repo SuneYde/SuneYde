@@ -81,18 +81,9 @@
 
 ## 🌟 **Why I Stand Out**
 
-1. 🧠 **Focused Problem Solver:** Asperger's fuels my creativity and attention to detail.  
+1. 🧠 **Focused Problem Solver:** creative and attention to detail.  
 2. 🚀 **Entrepreneurial Visionary:** Passionate about building scalable, secure solutions.  
 3. 💼 **Resilient Worker:** Continuously learning, adapting, and pushing boundaries.  
-
----
-
-## 🎨 **Fun Facts**
-
-- 🕹️ **Gaming Enthusiast:** FPS, strategy games, and more!  
-- 🎶 **Music Lover:** Coding to _The Social Network OST_ and instrumental tracks.  
-- 🍕 **Food Obsession:** Pizza is my ultimate coding fuel.  
-- 🌍 **Big Dreams:** Planning to work from a skyscraper in NYC someday.
 
 ---
 
