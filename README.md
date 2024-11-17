@@ -42,19 +42,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SuneYde&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?SuneYde&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
 
 ## 🌍 **Connect With Me**  
-- 🐦 [Twitter](https://twitter.com/your-handle)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📬 Email: your-email@example.com  
-
----
-
-### **Fun Fact:**  
-> “I developed a food ordering system in 45 minutes on my phone while dining at a restaurant!” 🍴  
+- 🐦 [Twitter](https://x.com/SynXDevelopment)  
+- 📬 Email: sunydework@proton.me  
 
 ---
