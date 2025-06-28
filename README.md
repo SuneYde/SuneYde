@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!  
 
-💻 **Hi, I'm Sune Yde**  
+💻 **Hi, I'm Sune**  
 🌟 Developer | MERN Stack Enthusiast | Aspiring Entrepreneur  
 🌍 Based in **Odense, Denmark**  
 💡 _“Turning ideas into secure, user-friendly solutions.”_  
